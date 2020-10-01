@@ -1,6 +1,6 @@
-This a virtual voice assiatant system as alexa, siri ,Google assistant
+This is an virtual assistant, also called AI assistant or digital assistant,  that understands natural language voice commands and completes tasks for the user similar as Alexa and Siri.
 
-Here are some packages which i used to built it.
+Here are some packages which i used to built it:
 
 1. pyttsx3
 2. datetime
